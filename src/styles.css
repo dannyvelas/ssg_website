@@ -4,6 +4,39 @@ body {
 	max-width: 800px ;
 	margin: auto ;
 	padding: 0 16px ;
-	margin-bottom: 500px ;
-	font-family: 'Nunito' sans-serif ;
+	font-family: 'Open Sans', sans-serif ;
+}
+
+nav {
+  display: flex ;
+  justify-content: space-between ;
+  align-items: center ;
+  line-height: 60px ;
+}
+
+nav ul {
+  list-style: none ;
+  padding: 0px ;
+}
+
+nav ul li {
+  display: inline ;
+  margin: 5px ;
+}
+
+nav a {
+  color: inherit ;
+  text-decoration: inherit ;
+}
+
+img {
+  max-height: 200px ;
+}
+
+h1 {
+  font-size: 1.25em
+}
+
+footer {
+  padding-top: 25px ;
 }
