@@ -51,16 +51,18 @@ div#container {
   text-align: justify;
   -ms-text-justify: distribute-all-lines;
   text-justify: distribute-all-lines;
+
+  /* prevent small screens from making rightmost div overflow */
   min-width: 612px;
 }
 
 div.lang {
   width: 150px;
   height: 175px;
-  vertical-align: top;
   display: inline-block;
 }
 
+/* equiv to :after. makes divs evenly spaced and left/rightmost hug walls */
 .stretch {
   width: 100%;
   display: inline-block;
@@ -74,6 +76,8 @@ div.imgWrap {
 
   display: flex;
   justify-content: center ;
+
+  /* keep aspect ratio */
   align-items: center ;
 }
 
