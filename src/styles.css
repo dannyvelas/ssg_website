@@ -29,12 +29,62 @@ nav a {
   text-decoration: inherit ;
 }
 
-img {
+img#profile {
   max-height: 200px ;
 }
 
 h1 {
-  font-size: 1.25em
+  font-size: 1.75em ;
+}
+
+h2 {
+  font-size: 1.50em ;
+}
+
+code {
+  font-size: 1em ;
+  background-color: #E4E6E8 ;
+}
+
+div#container {
+  height: 175px;
+  text-align: justify;
+  -ms-text-justify: distribute-all-lines;
+  text-justify: distribute-all-lines;
+}
+
+div.lang {
+  width: 150px;
+  height: 175px;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.stretch {
+  width: 100%;
+  display: inline-block;
+  font-size: 0;
+  line-height: 0
+}
+
+div.imgWrap {
+  width: 150px ;
+  height: 150px ;
+
+  display: flex;
+  justify-content: center ;
+  align-items: center ;
+}
+
+img {
+  max-height: 100% ;
+  max-width: 100% ;
+  vertical-align: middle ;
+}
+
+div.langTitle {
+  text-align: center ;
+  font-weight: bold ;
 }
 
 footer {
