@@ -51,6 +51,7 @@ div#container {
   text-align: justify;
   -ms-text-justify: distribute-all-lines;
   text-justify: distribute-all-lines;
+  min-width: 612px;
 }
 
 div.lang {
@@ -86,6 +87,7 @@ div.langTitle {
   text-align: center ;
   font-weight: bold ;
 }
+
 
 footer {
   padding-top: 25px ;
