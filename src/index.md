@@ -1,10 +1,20 @@
-Hey! I'm Danny. I'm really into programming language semantics, compiler
-development, and computer architecture.
+Hey! I'm Danny. I'm enjoy learning about programming language semantics,
+compiler development, and computer architecture. But, I primarily work
+as a Web Developer.
 
-I'm an NYU alumnus. I graduated from Computer Science at CAS and Finance at
-Stern.
+I'm an NYU alumnus. I graduated with a BA in Computer Science from CAS and
+a BS in Finance from Stern.
 
-# Development Principles
+# Directory
+
+<ul class="noBullet">
+  <li><a href="/about">About This Website</a></li>
+  <li><a href="/principles">Development Principles</a></li>
+  <li><a href="/proglangs">Programming Languages I Like</a></li>
+  <li><a href="/books">Books I'm Reading</a></li>
+</ul>
+
+# My Software Development Principles
 
 * Simple is better than complex
 * Clear is better than concise
@@ -49,7 +59,7 @@ to `.html`, and generates a nifty `sitemap.xml` file.
 
 <hr>
 
-# Programming Languages I'm Into
+# Programming Languages I Like
 ## I've Yet To Learn:
 
 <div class="langContainer">
@@ -130,7 +140,7 @@ to `.html`, and generates a nifty `sitemap.xml` file.
 
 <hr>
 
-# Books I'm Into
+# Books I'm Reading
 
 <div class="bookContainer">
   <div class="book">
