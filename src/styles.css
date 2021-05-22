@@ -54,7 +54,8 @@ code {
   background-color: #E4E6E8 ;
 }
 
-div#container {
+/********************* PROGRAMMING LANGUAGE SECTION **************************/
+div.langContainer {
   height: 175px ;
   text-align: justify ;
   -ms-text-justify: distribute-all-lines ;
@@ -78,7 +79,7 @@ div.lang {
   line-height: 0 ;
 }
 
-div.imgWrap {
+div.langImgWrap {
   width: 150px ;
   height: 150px ;
 
@@ -87,20 +88,6 @@ div.imgWrap {
 
   /* keep aspect ratio */
   align-items: center ;
-}
-
-
-div.paddedImgWrap {
-  width: 150px ;
-  height: 150px ;
-
-  display: flex ;
-  justify-content: center ;
-
-  /* keep aspect ratio */
-  align-items: center ;
-
-  padding: 15px ;
 }
 
 img {
@@ -112,6 +99,39 @@ div.langTitle {
   text-align: center ;
   font-weight: bold ;
 }
+/******************** END PROGRAMMING LANGUAGE SECTION ***********************/
+
+
+/***************************** BOOK SECTION **********************************/
+div.bookContainer {
+  height: auto ;
+  text-align: justify ;
+}
+
+div.book {
+  width: 300px auto ;
+  height: 300px auto ;
+  display: inline-block ;
+}
+
+div.bookSection {
+  font-size: 1.50em ;
+  font-weight: bold ;
+  margin-block-end: 0.83em;
+  text-align: center ;
+}
+
+div.bookImgWrap {
+  width: 250px ;
+  height: 250px ;
+  
+  display: flex ;
+  justify-content: center ;
+
+  /* keep aspect ratio */
+  align-items: center ;
+}
+/**************************** END BOOK SECTION *******************************/
 
 
 footer {

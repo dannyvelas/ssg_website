@@ -52,21 +52,21 @@ sandwiches my source files between a header and footer, uses John Gruber's
 # Programming Languages I'm Into
 ## I've Yet To Learn:
 
-<div id="container">
+<div class="langContainer">
   <div class="lang">
-      <div class="imgWrap">
+      <div class="langImgWrap">
         <img src="img/golang.png"></img>
       </div>
       <div class="langTitle">Go</div>
   </div>
   <div class="lang">
-      <div class="imgWrap">
+      <div class="langImgWrap">
         <img src="img/haskell.svg"></img>
       </div>
       <div class="langTitle">Haskell</div>
   </div>
   <div class="lang">
-      <div class="imgWrap">
+      <div class="langImgWrap">
         <img src="img/nim.png"></img>
       </div>
       <div class="langTitle">Nim</div>
@@ -76,27 +76,27 @@ sandwiches my source files between a header and footer, uses John Gruber's
 
 ## I've Played With:
 
-<div id="container">
+<div class="langContainer">
   <div class="lang">
-      <div class="paddedImgWrap">
+      <div class="langImgWrap" style="padding:15px ;">
         <img src="img/riscv.png"></img>
       </div>
       <div class="langTitle">RISC V Assembly</div>
   </div>
   <div class="lang">
-      <div class="imgWrap">
+      <div class="langImgWrap">
         <img src="img/rust.png"></img>
       </div>
       <div class="langTitle">Rust</div>
   </div>
   <div class="lang">
-      <div class="imgWrap">
+      <div class="langImgWrap">
         <img src="img/elm.png"></img>
       </div>
       <div class="langTitle">Elm</div>
   </div>
   <div class="lang">
-      <div class="imgWrap">
+      <div class="langImgWrap">
         <img src="img/scala.png"></img>
       </div>
       <div class="langTitle">Scala</div>
@@ -104,23 +104,23 @@ sandwiches my source files between a header and footer, uses John Gruber's
   <span class="stretch"></span>
 </div>
 
-## I Used Academically or Use Professionally:
+## I've Used Academically or Use Professionally:
 
-<div id="container">
+<div class="langContainer">
   <div class="lang">
-      <div class="paddedImgWrap">
+      <div class="langImgWrap" style="padding:15px ;">
         <img src="img/ts.png"></img>
       </div>
       <div class="langTitle">TypeScript</div>
   </div>
   <div class="lang">
-      <div class="imgWrap">
+      <div class="langImgWrap">
         <img src="img/python.png"></img>
       </div>
       <div class="langTitle">Python</div>
   </div>
   <div class="lang">
-      <div class="imgWrap">
+      <div class="langImgWrap">
         <img src="img/cpp.png"></img>
       </div>
       <div class="langTitle">C++</div>
@@ -131,6 +131,25 @@ sandwiches my source files between a header and footer, uses John Gruber's
 <hr>
 
 # Books
-**Currently Reading:** Ron Chernow's "The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance"
 
-**Reading Next:** Jonathan Haidt's "The Righteous Mind: Why Good People Are Divided by Politics and Religion"
+<div class="bookContainer">
+  <div class="book">
+    <div class="bookSection">Read Previously:</div>
+    <div class="bookImgWrap">
+      <img src="img/houseofmorgan.jpg"></img>
+    </div>
+  </div>
+  <div class="book">
+    <div class="bookSection">Currently Reading:</div>
+    <div class="bookImgWrap">
+      <img src="img/houseofmorgan.jpg"></img>
+    </div>
+  </div>
+  <div class="book">
+    <div class="bookSection">Reading Next:</div>
+    <div class="bookImgWrap">
+      <img src="img/therighteousmind.jpg"></img>
+    </div>
+  </div>
+  <span class="stretch"></span>
+</div>
