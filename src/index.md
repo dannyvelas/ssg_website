@@ -136,7 +136,7 @@ sandwiches my source files between a header and footer, uses John Gruber's
   <div class="book">
     <div class="bookSection">Read Previously:</div>
     <div class="bookImgWrap">
-      <img src="img/houseofmorgan.jpg"></img>
+      <img src="img/theascentofmoney.jpeg"></img>
     </div>
   </div>
   <div class="book">
