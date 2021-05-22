@@ -78,7 +78,7 @@ sandwiches my source files between a header and footer, uses John Gruber's
 
 <div id="container">
   <div class="lang">
-      <div class="imgWrap" style="padding:15px;">
+      <div class="paddedImgWrap">
         <img src="img/riscv.png"></img>
       </div>
       <div class="langTitle">RISC V Assembly</div>
@@ -97,14 +97,36 @@ sandwiches my source files between a header and footer, uses John Gruber's
   </div>
   <div class="lang">
       <div class="imgWrap">
-        <img src="img/fishcroppedtransparent.png"></img>
+        <img src="img/scala.png"></img>
       </div>
-      <div class="langTitle">Fish</div>
+      <div class="langTitle">Scala</div>
   </div>
   <span class="stretch"></span>
 </div>
 
-**I Use Professionally:** TypeScript, Python, SQL
+## I Used Academically or Use Professionally:
+
+<div id="container">
+  <div class="lang">
+      <div class="paddedImgWrap">
+        <img src="img/ts.png"></img>
+      </div>
+      <div class="langTitle">TypeScript</div>
+  </div>
+  <div class="lang">
+      <div class="imgWrap">
+        <img src="img/python.png"></img>
+      </div>
+      <div class="langTitle">Python</div>
+  </div>
+  <div class="lang">
+      <div class="imgWrap">
+        <img src="img/cpp.png"></img>
+      </div>
+      <div class="langTitle">C++</div>
+  </div>
+  <span class="stretch"></span>
+</div>
 
 <hr>
 

@@ -89,6 +89,20 @@ div.imgWrap {
   align-items: center ;
 }
 
+
+div.paddedImgWrap {
+  width: 150px ;
+  height: 150px ;
+
+  display: flex ;
+  justify-content: center ;
+
+  /* keep aspect ratio */
+  align-items: center ;
+
+  padding: 15px ;
+}
+
 img {
   max-height: 100% ;
   max-width: 100% ;
