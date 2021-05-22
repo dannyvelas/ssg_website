@@ -42,10 +42,10 @@ and non-customizable for my taste.
 4. Strictly HTML and CSS, **but** I would prefer to write in markdown over HTML
 since HTML is considerably more cumbersome.
 
-I opted for Roman Zolotarev's ssg5 because in 180 lines of shell code, it
-sandwiches my source files between a header and footer, uses John Gruber's
-`Markdown.pl` to transform my `.md` files to `.html`, and generates a nifty
-`sitemap.xml` file.
+I opted for Roman Zolotarev's [ssg5](https://www.romanzolotarev.com/ssg.html)
+because in 180 lines of shell code, it sandwiches my source files between a
+header and footer, uses John Gruber's `Markdown.pl` to transform my `.md` files
+to `.html`, and generates a nifty `sitemap.xml` file.
 
 <hr>
 
@@ -130,23 +130,23 @@ sandwiches my source files between a header and footer, uses John Gruber's
 
 <hr>
 
-# Books
+# Books I'm Into
 
 <div class="bookContainer">
   <div class="book">
-    <div class="bookSection">Read Previously:</div>
+    <p class="bookSection">Read Previously:</p>
     <div class="bookImgWrap">
       <img src="img/theascentofmoney.jpeg"></img>
     </div>
   </div>
   <div class="book">
-    <div class="bookSection">Currently Reading:</div>
+    <p class="bookSection">Currently Reading:</p>
     <div class="bookImgWrap">
       <img src="img/houseofmorgan.jpg"></img>
     </div>
   </div>
   <div class="book">
-    <div class="bookSection">Reading Next:</div>
+    <p class="bookSection">Reading Next:</p>
     <div class="bookImgWrap">
       <img src="img/therighteousmind.jpg"></img>
     </div>
