@@ -1,3 +1,11 @@
+html {
+  box-sizing: border-box ;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit ;
+}
+
 body {
 	background: #fefefe ;
 	color: #444 ;
@@ -47,34 +55,34 @@ code {
 }
 
 div#container {
-  height: 175px;
-  text-align: justify;
-  -ms-text-justify: distribute-all-lines;
-  text-justify: distribute-all-lines;
+  height: 175px ;
+  text-align: justify ;
+  -ms-text-justify: distribute-all-lines ;
+  text-justify: distribute-all-lines ;
 
   /* prevent small screens from making rightmost div overflow */
-  min-width: 612px;
+  min-width: 660px ;
 }
 
 div.lang {
-  width: 150px;
-  height: 175px;
-  display: inline-block;
+  width: 150px ;
+  height: 175px ;
+  display: inline-block ;
 }
 
 /* equiv to :after. makes divs evenly spaced and left/rightmost hug walls */
 .stretch {
   width: 100%;
-  display: inline-block;
-  font-size: 0;
-  line-height: 0
+  display: inline-block ;
+  font-size: 0 ;
+  line-height: 0 ;
 }
 
 div.imgWrap {
   width: 150px ;
   height: 150px ;
 
-  display: flex;
+  display: flex ;
   justify-content: center ;
 
   /* keep aspect ratio */

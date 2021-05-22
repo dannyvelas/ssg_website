@@ -50,7 +50,7 @@ sandwiches my source files between a header and footer, uses John Gruber's
 <hr>
 
 # Programming Languages I'm Into
-**I've Yet To Learn:**
+## I've Yet To Learn:
 
 <div id="container">
   <div class="lang">
@@ -74,7 +74,35 @@ sandwiches my source files between a header and footer, uses John Gruber's
   <span class="stretch"></span>
 </div>
 
-**I've Used:** RISC V, Rust, Elm, Scala, Fish
+## I've Played With:
+
+<div id="container">
+  <div class="lang">
+      <div class="imgWrap" style="padding:15px;">
+        <img src="img/riscv.png"></img>
+      </div>
+      <div class="langTitle">RISC V Assembly</div>
+  </div>
+  <div class="lang">
+      <div class="imgWrap">
+        <img src="img/rust.png"></img>
+      </div>
+      <div class="langTitle">Rust</div>
+  </div>
+  <div class="lang">
+      <div class="imgWrap">
+        <img src="img/elm.png"></img>
+      </div>
+      <div class="langTitle">Elm</div>
+  </div>
+  <div class="lang">
+      <div class="imgWrap">
+        <img src="img/fishcroppedtransparent.png"></img>
+      </div>
+      <div class="langTitle">Fish</div>
+  </div>
+  <span class="stretch"></span>
+</div>
 
 **I Use Professionally:** TypeScript, Python, SQL
 
