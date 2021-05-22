@@ -7,12 +7,12 @@ html {
 }
 
 body {
-	background: #fefefe ;
-	color: #444 ;
-	max-width: 800px ;
-	margin: auto ;
-	padding: 0 16px ;
-	font-family: 'Open Sans', sans-serif ;
+  background: #fefefe ;
+  color: #444 ;
+  max-width: 800px ;
+  margin: auto ;
+  padding: 0 16px ;
+  font-family: 'Open Sans', sans-serif ;
 }
 
 nav {
@@ -22,10 +22,12 @@ nav {
 
   border-bottom-style: solid ;
   border-bottom-width: 1px ;
+  border-top-color: #444 ;
+
   margin-bottom: 30px ;
 }
 
-nav ul {
+ul.noBullet {
   list-style: none ;
   padding: 0px ;
 }
@@ -59,13 +61,10 @@ code {
 
 /********************* PROGRAMMING LANGUAGE SECTION **************************/
 div.langContainer {
-  height: 175px ;
+  height: auto ;
   text-align: justify ;
   -ms-text-justify: distribute-all-lines ;
   text-justify: distribute-all-lines ;
-
-  /* prevent small screens from making rightmost div overflow */
-  min-width: 660px ;
 }
 
 div.lang {
@@ -141,6 +140,8 @@ div.bookImgWrap {
 footer {
   margin-top: 50px ;
   padding: 25px 10px ;
+
   border-top-style: solid ;
   border-top-width: 1px ;
+  border-top-color: #444 ;
 }
