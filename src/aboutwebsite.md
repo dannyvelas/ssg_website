@@ -1,4 +1,6 @@
 # About This Website
+
+## Architecture
 Before I developed this site, I considered using:
 
 1. A Single-Page-Application Framework like React or Elm, **but** I preferred
@@ -16,10 +18,23 @@ added control and savings.
 since HTML is considerably more cumbersome.
 
 After discarding these options, I found that a statically-generated site was
-the way to go. Instead of Hugo or Jekyll, I opted for Roman Zolotarev's
-[ssg5](https://www.romanzolotarev.com/ssg.html) because it's only 180 lines of
-shell code, and does exactly what I want: auto-includes my header and
-footer, translates my `.md` files to `.html`, and generates a nifty
-`sitemap.xml` file.  No more, no less.
+the way to go.
 
-You can find the source for this site [here](https://github.com/dannyvelas/ssg_website)
+Instead of Hugo or Jekyll, I opted for Roman Zolotarev's
+[ssg5](https://www.romanzolotarev.com/ssg.html) because it's only 180 lines of
+shell code, and does exactly what I want: auto-includes my header and footer,
+translates my `.md` files to `.html`, and generates a nifty `sitemap.xml` file.
+No more, no less.
+
+I also decided against using Bootstrap, because I wanted to try my hand at
+writing responsive CSS. Per [my principles](/#principles), less dependencies is better.
+
+You can find the source for this site [here](https://github.com/dannyvelas/ssg_website).
+
+## Content
+
+I decided not to add all my LinkedIn and Resume stuff here. This site is meant
+to be a look into my interests and projects.
+
+If you really wanted to see my timeline, you could check out
+[LinkedIn](https://www.linkedin.com/in/dannyvelas/).
