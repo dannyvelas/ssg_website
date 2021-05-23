@@ -1,6 +1,7 @@
-Hey! I'm Danny. I'm enjoy learning about programming language semantics,
-compiler development, and computer architecture. But, I primarily work
-as a Web Developer.
+<img id="profile" src="img/me-couch.jpg"></img>
+
+Hey! I'm Danny. I'm enjoy learning about programming languages,
+compiler development, computer architecture, and web development frameworks.
 
 I'm an NYU alumnus. I graduated with a BA in Computer Science from CAS and
 a BS in Finance from Stern.
