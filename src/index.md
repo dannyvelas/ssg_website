@@ -18,7 +18,7 @@ a BS in Finance from Stern.
 
 * Simple is better than complex
 * Clear is better than concise
-* Less dependencies is good
+* Having fewer dependencies is good
 * But re-inventing the wheel is bad
 * Explicit control flow is better than hidden control flow
 * The crux of productivity is architecture

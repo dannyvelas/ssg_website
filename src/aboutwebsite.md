@@ -27,7 +27,8 @@ translates my `.md` files to `.html`, and generates a nifty `sitemap.xml` file.
 No more, no less.
 
 I also decided against using Bootstrap, because I wanted to try my hand at
-writing responsive CSS. Per [my principles](/#principles), less dependencies is better.
+writing responsive CSS. Per [my principles](/#principles), having fewer
+dependencies is better.
 
 You can find the source for this site [here](https://github.com/dannyvelas/ssg_website).
 
