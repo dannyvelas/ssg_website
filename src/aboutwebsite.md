@@ -8,16 +8,18 @@ possible.
 2. A Server-Side-Rendering Framework like Django, Gatsby, Rails, etc., **but**
 see #1.
 
-3. A Content Management System like WordPress, **but** every tool presents a
-trade-off between abstraction and control. These are too abstracted, generic,
-and non-customizable for my taste.
+3. A Content Management System like WordPress, **but** why pay a service to
+design my site, when I can do it myself? The time I invest is worth the
+added control and savings.
 
 4. Strictly HTML and CSS, **but** I would prefer to write in markdown over HTML
 since HTML is considerably more cumbersome.
 
-I opted for Roman Zolotarev's [ssg5](https://www.romanzolotarev.com/ssg.html)
-because in 180 lines of shell code, it sandwiches my source files between a
-header and footer, uses John Gruber's `Markdown.pl` to transform my `.md` files
-to `.html`, and generates a nifty `sitemap.xml` file.
+After discarding these options, I found that a statically-generated site was
+the way to go. Instead of Hugo or Jekyll, I opted for Roman Zolotarev's
+[ssg5](https://www.romanzolotarev.com/ssg.html) because it's only 180 lines of
+shell code, and does exactly what I want: auto-includes my header and
+footer, translates my `.md` files to `.html`, and generates a nifty
+`sitemap.xml` file.  No more, no less.
 
 You can find the source for this site [here](https://github.com/dannyvelas/ssg_website)
