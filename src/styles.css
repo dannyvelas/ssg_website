@@ -22,7 +22,7 @@ nav {
 
   border-bottom-style: solid ;
   border-bottom-width: 1px ;
-  border-top-color: #444 ;
+  border-bottom-color: #444 ;
 
   margin-bottom: 30px ;
 }
@@ -111,16 +111,15 @@ div.bookContainer {
 }
 
 div.book {
-  width: 300px auto ;
-  height: 300px auto ;
   display: inline-block ;
+  margin-bottom: 30px ;
 }
 
 p.bookSection {
   font-size: 1.50em ;
   font-weight: bold ;
   margin-block-start: 0 ;
-  margin-block-end: 0.83em;
+  margin-block-end: 0.83em ;
   text-align: center ;
 }
 
