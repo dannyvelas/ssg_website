@@ -19,3 +19,5 @@ I opted for Roman Zolotarev's [ssg5](https://www.romanzolotarev.com/ssg.html)
 because in 180 lines of shell code, it sandwiches my source files between a
 header and footer, uses John Gruber's `Markdown.pl` to transform my `.md` files
 to `.html`, and generates a nifty `sitemap.xml` file.
+
+You can find the source for this site [here](https://github.com/dannyvelas/ssg_website)

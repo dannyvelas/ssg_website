@@ -1,3 +1,3 @@
 # My Minimal SSG Website
 
-http://dannyvelasquez.com/
+https://dannyvelasquez.com/
