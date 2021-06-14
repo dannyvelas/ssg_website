@@ -7,7 +7,7 @@ Before I developed this site, I considered using:
 to use something smaller, simpler, and with as little code as
 possible.
 
-2. A Server-Side-Rendering Framework like Django, Gatsby, Rails, etc., **but**
+2. A Server-Side-Rendering Framework like Django, Next, Rails, etc., **but**
 see #1.
 
 3. A Content Management System like WordPress, **but** why pay a service to
