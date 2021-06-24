@@ -18,12 +18,19 @@ body {
 /******************** nav *******************************/
 nav {
   display: flex ;
-  justify-content: center ;
+  justify-content: space-between ;
   align-items: center ;
   flex-wrap: wrap ;
 
   margin-bottom: 30px ;
 }
+
+@media (max-width: 751px) {
+  nav {
+    justify-content: center ;
+  }
+}
+
 
 nav a {
   text-decoration: inherit ;
