@@ -94,10 +94,10 @@ code {
 div.langContainer {
   height: auto ;
   text-align: justify ;
-  text-justify: distribute-all-lines ;
 
   display: flex ;
-  justify-content: space-around ;
+  justify-content: space-evenly ;
+  flex-wrap: wrap ;
 }
 
 div.lang {
