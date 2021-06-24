@@ -124,5 +124,4 @@ a BS in Finance from Stern.
       <img src="img/therighteousmind.jpg"></img>
     </div>
   </div>
-  <span class="stretch"></span>
 </div>

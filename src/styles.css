@@ -133,6 +133,10 @@ div.langTitle {
 div.bookContainer {
   height: auto ;
   text-align: justify ;
+  
+  display: flex ;
+  justify-content: space-evenly ;
+  flex-wrap: wrap ;
 }
 
 div.book {
