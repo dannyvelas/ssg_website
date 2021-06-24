@@ -27,7 +27,7 @@ a BS in Finance from Stern.
 
 
 ## Programming Languages
-## I've Yet To Learn:
+### I've Yet To Learn:
 
 <div class="langContainer">
   <div class="lang">
@@ -51,7 +51,7 @@ a BS in Finance from Stern.
   <span class="stretch"></span>
 </div>
 
-## I've Played With:
+### I've Played With:
 
 <div class="langContainer">
   <div class="lang">
@@ -81,7 +81,7 @@ a BS in Finance from Stern.
   <span class="stretch"></span>
 </div>
 
-## I've Used Academically or Use Professionally:
+### I've Used Academically or Use Professionally:
 
 <div class="langContainer">
   <div class="lang">
@@ -106,7 +106,7 @@ a BS in Finance from Stern.
 </div>
 
 
-<h2 id="books">Books I'm Reading</h2>
+## Books I'm Reading
 
 <div class="bookContainer">
   <div class="book">
