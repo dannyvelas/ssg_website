@@ -27,6 +27,7 @@ nav {
 
 nav a {
   text-decoration: inherit ;
+  display: inline-block ;
 }
 
 nav div#me {
@@ -48,7 +49,11 @@ nav a#me-name {
   font-size: 23px ;
 }
 
-nav ul .noBullet {
+nav ul.noBullet {
+  display: flex ;
+  flex-wrap: wrap ;
+  justify-content: center ;
+
   list-style: none ;
   padding: 0px ;
 }
