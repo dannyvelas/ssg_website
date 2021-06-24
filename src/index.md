@@ -31,24 +31,23 @@ a BS in Finance from Stern.
 
 <div class="langContainer">
   <div class="lang">
-      <div class="langImgWrap">
-        <img src="img/golang.png"></img>
-      </div>
-      <div class="langTitle">Go</div>
+    <div class="langImgWrap">
+      <img src="img/golang.png"></img>
+    </div>
+    <div class="langTitle">Go</div>
   </div>
   <div class="lang">
-      <div class="langImgWrap">
-        <img src="img/haskell.svg"></img>
-      </div>
-      <div class="langTitle">Haskell</div>
+    <div class="langImgWrap">
+      <img src="img/haskell.svg"></img>
+    </div>
+    <div class="langTitle">Haskell</div>
   </div>
   <div class="lang">
-      <div class="langImgWrap">
-        <img src="img/nim.png"></img>
-      </div>
-      <div class="langTitle">Nim</div>
+    <div class="langImgWrap">
+      <img src="img/nim.png"></img>
+    </div>
+    <div class="langTitle">Nim</div>
   </div>
-  <span class="stretch"></span>
 </div>
 
 ### I've Played With:
@@ -78,7 +77,6 @@ a BS in Finance from Stern.
       </div>
       <div class="langTitle">Scala</div>
   </div>
-  <span class="stretch"></span>
 </div>
 
 ### I've Used Academically or Use Professionally:
@@ -102,7 +100,6 @@ a BS in Finance from Stern.
       </div>
       <div class="langTitle">C++</div>
   </div>
-  <span class="stretch"></span>
 </div>
 
 

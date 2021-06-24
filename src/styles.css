@@ -88,22 +88,16 @@ code {
 div.langContainer {
   height: auto ;
   text-align: justify ;
-  -ms-text-justify: distribute-all-lines ;
   text-justify: distribute-all-lines ;
+
+  display: flex ;
+  justify-content: space-around ;
 }
 
 div.lang {
   width: 150px ;
   height: 175px ;
   display: inline-block ;
-}
-
-/* equiv to :after. makes divs evenly spaced and left/rightmost hug walls */
-.stretch {
-  width: 100%;
-  display: inline-block ;
-  font-size: 0 ;
-  line-height: 0 ;
 }
 
 div.langImgWrap {
