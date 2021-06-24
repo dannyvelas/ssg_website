@@ -1,4 +1,4 @@
-<img id="profile" src="img/me-couch.jpg"></img>
+## About Me 
 
 Hey! I'm Danny. I'm enjoy learning about programming languages,
 compiler development, computer architecture, and web development frameworks.
@@ -6,15 +6,7 @@ compiler development, computer architecture, and web development frameworks.
 I'm an NYU alumnus. I graduated with a BA in Computer Science from CAS and
 a BS in Finance from Stern.
 
-# Directory
-
-<ul class="noBullet">
-  <li><a href="#principles">Development Principles</a></li>
-  <li><a href="#proglangs">Programming Languages I Like</a></li>
-  <li><a href="#books">Books I'm Reading</a></li>
-</ul>
-
-<h1 id="principles">My Software Development Principles</h1>
+## My Software Development Principles
 
 * Simple is better than complex
 * Clear is better than concise
@@ -33,9 +25,8 @@ a BS in Finance from Stern.
 * [Bob Nystrom's Introduction to "Game Programming Patterns"](https://gameprogrammingpatterns.com/architecture-performance-and-games.html#what-is-*good*-software-architecture)
 * [John Carmack's Email on Inlined Code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 
-<hr>
 
-<h1 id="proglangs">Programming Languages I Like</h1>
+## Programming Languages
 ## I've Yet To Learn:
 
 <div class="langContainer">
@@ -114,9 +105,8 @@ a BS in Finance from Stern.
   <span class="stretch"></span>
 </div>
 
-<hr>
 
-<h1 id="books">Books I'm Reading</h1>
+<h2 id="books">Books I'm Reading</h2>
 
 <div class="bookContainer">
   <div class="book">

@@ -8,21 +8,17 @@ html {
 
 body {
   background: #fefefe ;
-  color: #444 ;
+  color: #27272a ;
   max-width: 800px ;
   margin: auto ;
   padding: 0 16px ;
-  font-family: 'Open Sans', sans-serif ;
+  font-family: "Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif ;
 }
 
 nav {
   display: flex ;
   justify-content: space-between ;
   align-items: center ;
-
-  border-bottom-style: solid ;
-  border-bottom-width: 1px ;
-  border-bottom-color: #444 ;
 
   margin-bottom: 30px ;
 }
@@ -32,26 +28,49 @@ ul.noBullet {
   padding: 0px ;
 }
 
-nav ul li {
-  display: inline ;
-  margin: 5px ;
-}
-
 nav a {
-  color: inherit ;
   text-decoration: inherit ;
 }
 
-img#profile {
-  max-height: 200px ;
+nav div#me {
+  align-items: center ;
+}
+
+img#me-picture {
+  height: 85px ;
+  width: 85px ;
+  border-radius: 50% ;
+  margin: 10px ;
+
+  vertical-align: middle ;
+}
+
+nav a#me-name {
+  color: #27272a ;
+  font-weight: 600 ;
+  font-size: 23px ;
+}
+
+nav ul li {
+  display: inline ;
+  margin: 15px ;
+}
+
+nav ul li a {
+  color: #6b7381 ;
 }
 
 h1 {
-  font-size: 1.75em ;
+  font-size: 2.8rem ;
+  text-align: center ;
 }
 
 h2 {
   font-size: 1.50em ;
+}
+
+p, li {
+  line-height: 1.6 ;
 }
 
 code {
@@ -139,8 +158,4 @@ div.bookImgWrap {
 footer {
   margin-top: 50px ;
   padding: 25px 10px ;
-
-  border-top-style: solid ;
-  border-top-width: 1px ;
-  border-top-color: #444 ;
 }
