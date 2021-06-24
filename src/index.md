@@ -1,7 +1,15 @@
 ## About Me 
 
-Hey! I'm Danny. I'm enjoy learning about programming languages,
-compiler development, computer architecture, and web development frameworks.
+Hey! I'm Danny. I enjoy learning about software architecture.
+
+Specifically, I look for design decisions in programming
+languages and web frameworks that contribute to developer
+productivity and enjoyment.
+
+To this end, I try to learn as many languages and frameworks time allows.
+I also look at supporting data like:
+[Stack Overflow Surveys](https://insights.stackoverflow.com/survey/2020)
+and [Web Framework Comparison Statistics](https://medium.com/dailyjs/a-realworld-comparison-of-front-end-frameworks-2020-4e50655fe4c1).
 
 I'm an NYU alumnus. I graduated with a BA in Computer Science from CAS and
 a BS in Finance from Stern.
